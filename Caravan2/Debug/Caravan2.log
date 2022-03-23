@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(107,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(132,6): warning C4101: p: неиспользованная локальная переменная
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(167,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(270,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(321,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(372,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(374,15): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(450,7): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(501,7): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(552,7): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\gamep\source\repos\Caravan2\Source.cpp(554,14): warning C4551: в вызове функции отсутствует список аргументов
+  Caravan2.vcxproj -> C:\Users\gamep\source\repos\Caravan2\Debug\Caravan2.exe
